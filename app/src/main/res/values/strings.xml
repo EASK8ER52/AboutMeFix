@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Ernesto</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">
+        Hi my name is Ernesto Acosta.
+        \n\nI like to play video games, watch great tv and movies.
+        \n\nI also enjoy skateboarding, as well as listening and playing
+        great indie, alternative, and rock music.
+        \n\nI consider myself to be a "jack of all trades", meaning I
+        am not contempt with one thing.
+        \n\nNot only am I into those things I mentioned above
+        I am also into many other things which include but are not limited
+        to, politics, history, culture, science, geography, astrology,
+        physics, and of course technology.
+        \n\nFurthermore, I am an atheist, all religion is mostly nonsense,
+        the main one I know a quite a bit about is christianity, but I know quite a bit
+        about norse mythology as well as greek mythology, mainly because they fascinate me.
+        \n\nI would love to travel one day, mainly to a couple of cool places like big ben
+        in the U.K.. The Eiffel Tower in Paris as well as visit Versailles. The Red Square
+        in Moscow would be amazing to see, as well as the Great Pyramid of Giza, and of course
+        the Great Wall of China.
+        \n\nLastly my favorite color is a tie between blue and purple, and I am a huge fan
+        of western european fantasy.
+        \n\n
+    </string>
+    <string name="what_is_your_nickname">What Is Your Nickname</string>
+    <string name="done">Done</string>
+</resources>
